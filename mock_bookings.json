@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "b1000",
+    "customerName": "Charlie Iyer",
+    "serviceType": "Bridal Makeup",
+    "date": "Aug 06, 01:34 PM",
+    "status": "CANCELLED",
+    "amount": 167318,
+    "provider": "Priya Reddy",
+    "location": "Sector 37, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Bridal Makeup Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1001",
+    "customerName": "Pooja Iyer",
+    "serviceType": "Wedding Photography",
+    "date": "Dec 18, 06:16 AM",
+    "status": "CANCELLED",
+    "amount": 151081,
+    "provider": "Arun Reddy",
+    "location": "Sector 37, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Wedding Photography Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1002",
+    "customerName": "Priya Singh",
+    "serviceType": "Live Chaat Counters",
+    "date": "Aug 23, 07:51 AM",
+    "status": "CONFIRMED",
+    "amount": 119111,
+    "provider": "Ramesh Johnson",
+    "location": "Sector 38, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Live Chaat Counters Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1003",
+    "customerName": "Neha Verma",
+    "serviceType": "Premium Buffet Catering",
+    "date": "Dec 04, 12:41 PM",
+    "status": "CONFIRMED",
+    "amount": 132313,
+    "provider": "Amit Reddy",
+    "location": "Sector 16, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Premium Buffet Catering Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1004",
+    "customerName": "Ramesh Reddy",
+    "serviceType": "Live Chaat Counters",
+    "date": "Apr 29, 02:13 PM",
+    "status": "CANCELLED",
+    "amount": 167116,
+    "provider": "Ramesh Sharma",
+    "location": "Sector 28, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Live Chaat Counters Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1005",
+    "customerName": "Diana Nair",
+    "serviceType": "Theme Lighting",
+    "date": "Jan 17, 11:30 PM",
+    "status": "COMPLETED",
+    "amount": 258305,
+    "provider": "Sneha Verma",
+    "location": "Sector 8, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Theme Lighting Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1006",
+    "customerName": "Bob Gupta",
+    "serviceType": "Live Band",
+    "date": "Sep 17, 09:32 PM",
+    "status": "CANCELLED",
+    "amount": 356085,
+    "provider": "Amit Brown",
+    "location": "Sector 33, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Live Band Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1007",
+    "customerName": "Ramesh Reddy",
+    "serviceType": "Premium Buffet Catering",
+    "date": "Jul 04, 08:08 AM",
+    "status": "PENDING",
+    "amount": 43345,
+    "provider": "Amit Das",
+    "location": "Sector 42, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Premium Buffet Catering Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1008",
+    "customerName": "Amit Reddy",
+    "serviceType": "Mandap Decor",
+    "date": "Mar 01, 11:28 PM",
+    "status": "PENDING",
+    "amount": 457372,
+    "provider": "Karan Sharma",
+    "location": "Sector 1, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Mandap Decor Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1009",
+    "customerName": "Karan Das",
+    "serviceType": "Farmhouse",
+    "date": "Sep 12, 09:14 PM",
+    "status": "CANCELLED",
+    "amount": 291677,
+    "provider": "Sneha Reddy",
+    "location": "Sector 21, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Farmhouse Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1010",
+    "customerName": "Divya Kumar",
+    "serviceType": "Wedding Photography",
+    "date": "Dec 14, 03:56 PM",
+    "status": "COMPLETED",
+    "amount": 464478,
+    "provider": "Anjali Johnson",
+    "location": "Sector 44, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Wedding Photography Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1011",
+    "customerName": "Rohit Smith",
+    "serviceType": "Wedding Photography",
+    "date": "Sep 14, 10:45 AM",
+    "status": "CANCELLED",
+    "amount": 131107,
+    "provider": "Neha Patel",
+    "location": "Sector 50, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Wedding Photography Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1012",
+    "customerName": "Bob Jain",
+    "serviceType": "Theme Lighting",
+    "date": "Mar 12, 07:35 AM",
+    "status": "COMPLETED",
+    "amount": 348392,
+    "provider": "Alice Reddy",
+    "location": "Sector 33, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Theme Lighting Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1013",
+    "customerName": "Amit Gupta",
+    "serviceType": "Party Makeup",
+    "date": "Nov 14, 12:03 PM",
+    "status": "CANCELLED",
+    "amount": 153905,
+    "provider": "Vikram Singh",
+    "location": "Sector 36, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Party Makeup Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1014",
+    "customerName": "Priya Sharma",
+    "serviceType": "Live Band",
+    "date": "Mar 10, 04:24 PM",
+    "status": "IN_PROGRESS",
+    "amount": 403779,
+    "provider": "Bob Kumar",
+    "location": "Sector 46, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Live Band Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1015",
+    "customerName": "Pooja Reddy",
+    "serviceType": "Party Makeup",
+    "date": "Feb 15, 08:28 PM",
+    "status": "COMPLETED",
+    "amount": 293057,
+    "provider": "Pooja Das",
+    "location": "Sector 27, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Party Makeup Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1016",
+    "customerName": "Rohit Singh",
+    "serviceType": "Pre-wedding Shoot",
+    "date": "Jul 03, 03:26 AM",
+    "status": "CONFIRMED",
+    "amount": 297519,
+    "provider": "Anjali Brown",
+    "location": "Sector 15, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Pre-wedding Shoot Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1017",
+    "customerName": "Suresh Gupta",
+    "serviceType": "Bridal Makeup",
+    "date": "Dec 03, 11:40 PM",
+    "status": "PENDING",
+    "amount": 298385,
+    "provider": "Ramesh Nair",
+    "location": "Sector 45, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Bridal Makeup Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1018",
+    "customerName": "Bob Brown",
+    "serviceType": "Sangeet Setup",
+    "date": "May 18, 01:32 AM",
+    "status": "IN_PROGRESS",
+    "amount": 28642,
+    "provider": "Rohit Kumar",
+    "location": "Sector 46, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Sangeet Setup Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1019",
+    "customerName": "Neha Verma",
+    "serviceType": "Floral Decoration",
+    "date": "Feb 24, 03:38 AM",
+    "status": "COMPLETED",
+    "amount": 27399,
+    "provider": "Charlie Kumar",
+    "location": "Sector 10, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Floral Decoration Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1020",
+    "customerName": "Anjali Sharma",
+    "serviceType": "Standard Course Meal",
+    "date": "Aug 29, 07:27 PM",
+    "status": "COMPLETED",
+    "amount": 197800,
+    "provider": "Karan Gupta",
+    "location": "Sector 26, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Standard Course Meal Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1021",
+    "customerName": "Karan Iyer",
+    "serviceType": "Live Chaat Counters",
+    "date": "Oct 22, 11:34 PM",
+    "status": "CONFIRMED",
+    "amount": 354780,
+    "provider": "Priya Sharma",
+    "location": "Sector 12, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Live Chaat Counters Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1022",
+    "customerName": "Rohit Verma",
+    "serviceType": "DJ & Sound System",
+    "date": "Feb 15, 04:30 PM",
+    "status": "COMPLETED",
+    "amount": 149190,
+    "provider": "Charlie Reddy",
+    "location": "Sector 34, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium DJ & Sound System Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1023",
+    "customerName": "Rahul Singh",
+    "serviceType": "Live Band",
+    "date": "May 04, 04:06 PM",
+    "status": "CANCELLED",
+    "amount": 450754,
+    "provider": "Rohit Reddy",
+    "location": "Sector 36, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Live Band Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1024",
+    "customerName": "Alice Reddy",
+    "serviceType": "Party Makeup",
+    "date": "Nov 06, 02:01 AM",
+    "status": "CONFIRMED",
+    "amount": 60969,
+    "provider": "Karan Das",
+    "location": "Sector 30, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Party Makeup Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1025",
+    "customerName": "Pooja Nair",
+    "serviceType": "Drone Coverage",
+    "date": "Sep 12, 02:36 PM",
+    "status": "IN_PROGRESS",
+    "amount": 154381,
+    "provider": "Alice Nair",
+    "location": "Sector 27, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Drone Coverage Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1026",
+    "customerName": "Divya Reddy",
+    "serviceType": "Party Makeup",
+    "date": "Nov 03, 06:46 AM",
+    "status": "PENDING",
+    "amount": 326114,
+    "provider": "Amit Patel",
+    "location": "Sector 45, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Party Makeup Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1027",
+    "customerName": "Arun Gupta",
+    "serviceType": "Sangeet Setup",
+    "date": "Aug 21, 12:38 AM",
+    "status": "IN_PROGRESS",
+    "amount": 368465,
+    "provider": "Ramesh Kumar",
+    "location": "Sector 16, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Sangeet Setup Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1028",
+    "customerName": "Sneha Patel",
+    "serviceType": "Floral Decoration",
+    "date": "May 09, 05:34 PM",
+    "status": "IN_PROGRESS",
+    "amount": 348816,
+    "provider": "Diana Kumar",
+    "location": "Sector 37, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Floral Decoration Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1029",
+    "customerName": "Diana Das",
+    "serviceType": "Pre-wedding Shoot",
+    "date": "Jun 10, 06:24 AM",
+    "status": "PENDING",
+    "amount": 152484,
+    "provider": "Rahul Verma",
+    "location": "Sector 42, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Pre-wedding Shoot Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1030",
+    "customerName": "Suresh Verma",
+    "serviceType": "Premium Buffet Catering",
+    "date": "Nov 02, 06:26 AM",
+    "status": "IN_PROGRESS",
+    "amount": 274374,
+    "provider": "Charlie Das",
+    "location": "Sector 8, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Premium Buffet Catering Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1031",
+    "customerName": "Rohit Smith",
+    "serviceType": "Luxury Hotel",
+    "date": "Jun 28, 11:16 AM",
+    "status": "PENDING",
+    "amount": 108085,
+    "provider": "Karan Singh",
+    "location": "Sector 40, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Luxury Hotel Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1032",
+    "customerName": "Alice Nair",
+    "serviceType": "Farmhouse",
+    "date": "Feb 14, 03:10 AM",
+    "status": "CONFIRMED",
+    "amount": 380866,
+    "provider": "Divya Das",
+    "location": "Sector 19, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Farmhouse Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1033",
+    "customerName": "Suresh Das",
+    "serviceType": "Bridal Makeup",
+    "date": "Jan 16, 07:32 PM",
+    "status": "CANCELLED",
+    "amount": 495173,
+    "provider": "Rahul Sharma",
+    "location": "Sector 23, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Bridal Makeup Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1034",
+    "customerName": "Pooja Brown",
+    "serviceType": "Live Band",
+    "date": "Nov 15, 02:40 AM",
+    "status": "PENDING",
+    "amount": 124498,
+    "provider": "Diana Sharma",
+    "location": "Sector 21, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Live Band Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1035",
+    "customerName": "Vikram Verma",
+    "serviceType": "Sangeet Setup",
+    "date": "Nov 16, 02:32 AM",
+    "status": "CONFIRMED",
+    "amount": 464324,
+    "provider": "Priya Nair",
+    "location": "Sector 44, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Sangeet Setup Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1036",
+    "customerName": "Rohit Iyer",
+    "serviceType": "Premium Buffet Catering",
+    "date": "Mar 03, 07:53 AM",
+    "status": "CONFIRMED",
+    "amount": 228371,
+    "provider": "Sneha Reddy",
+    "location": "Sector 32, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Premium Buffet Catering Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1037",
+    "customerName": "Alice Gupta",
+    "serviceType": "Drone Coverage",
+    "date": "Mar 29, 04:12 AM",
+    "status": "PENDING",
+    "amount": 360070,
+    "provider": "Priya Smith",
+    "location": "Sector 5, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Drone Coverage Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1038",
+    "customerName": "Priya Das",
+    "serviceType": "Theme Lighting",
+    "date": "Mar 14, 01:54 AM",
+    "status": "IN_PROGRESS",
+    "amount": 470308,
+    "provider": "Sneha Das",
+    "location": "Sector 31, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Theme Lighting Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1039",
+    "customerName": "Vikram Patel",
+    "serviceType": "Resort Wedding Venue",
+    "date": "Jul 31, 11:16 AM",
+    "status": "CONFIRMED",
+    "amount": 28808,
+    "provider": "Alice Das",
+    "location": "Sector 22, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Resort Wedding Venue Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1040",
+    "customerName": "Ramesh Reddy",
+    "serviceType": "Sangeet Setup",
+    "date": "Jan 08, 07:09 PM",
+    "status": "COMPLETED",
+    "amount": 101881,
+    "provider": "Arun Nair",
+    "location": "Sector 14, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Sangeet Setup Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1041",
+    "customerName": "Priya Kumar",
+    "serviceType": "Farmhouse",
+    "date": "Mar 13, 01:58 PM",
+    "status": "IN_PROGRESS",
+    "amount": 251534,
+    "provider": "Vikram Patel",
+    "location": "Sector 14, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Farmhouse Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1042",
+    "customerName": "Ramesh Verma",
+    "serviceType": "Party Makeup",
+    "date": "Jun 10, 12:34 AM",
+    "status": "PENDING",
+    "amount": 53235,
+    "provider": "Divya Reddy",
+    "location": "Sector 37, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Party Makeup Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1043",
+    "customerName": "Bob Brown",
+    "serviceType": "DJ & Sound System",
+    "date": "Mar 02, 02:16 PM",
+    "status": "IN_PROGRESS",
+    "amount": 351143,
+    "provider": "Sneha Reddy",
+    "location": "Sector 17, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium DJ & Sound System Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1044",
+    "customerName": "Pooja Smith",
+    "serviceType": "Bridal Makeup",
+    "date": "Nov 09, 07:45 PM",
+    "status": "CANCELLED",
+    "amount": 429540,
+    "provider": "Neha Iyer",
+    "location": "Sector 44, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Bridal Makeup Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1045",
+    "customerName": "Amit Brown",
+    "serviceType": "Bridal Makeup",
+    "date": "Jul 11, 04:58 AM",
+    "status": "PENDING",
+    "amount": 101388,
+    "provider": "Ramesh Brown",
+    "location": "Sector 5, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Bridal Makeup Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1046",
+    "customerName": "Pooja Brown",
+    "serviceType": "Farmhouse",
+    "date": "Feb 22, 08:51 AM",
+    "status": "IN_PROGRESS",
+    "amount": 426328,
+    "provider": "Ramesh Das",
+    "location": "Sector 38, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Farmhouse Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1047",
+    "customerName": "Rohit Jain",
+    "serviceType": "Theme Lighting",
+    "date": "Nov 07, 06:38 PM",
+    "status": "IN_PROGRESS",
+    "amount": 233750,
+    "provider": "Suresh Jain",
+    "location": "Sector 30, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Theme Lighting Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1048",
+    "customerName": "Neha Nair",
+    "serviceType": "Live Band",
+    "date": "Nov 08, 08:47 AM",
+    "status": "IN_PROGRESS",
+    "amount": 159625,
+    "provider": "Anjali Johnson",
+    "location": "Sector 26, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Live Band Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1049",
+    "customerName": "Rohit Verma",
+    "serviceType": "Cinematography",
+    "date": "Jun 29, 04:27 AM",
+    "status": "PENDING",
+    "amount": 31185,
+    "provider": "Sneha Smith",
+    "location": "Sector 41, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Cinematography Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1050",
+    "customerName": "Vikram Brown",
+    "serviceType": "DJ & Sound System",
+    "date": "Jun 12, 12:13 PM",
+    "status": "COMPLETED",
+    "amount": 138928,
+    "provider": "Divya Reddy",
+    "location": "Sector 15, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium DJ & Sound System Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1051",
+    "customerName": "Anjali Smith",
+    "serviceType": "Drone Coverage",
+    "date": "Oct 07, 02:03 PM",
+    "status": "IN_PROGRESS",
+    "amount": 196550,
+    "provider": "Priya Kumar",
+    "location": "Sector 12, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Drone Coverage Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1052",
+    "customerName": "Suresh Singh",
+    "serviceType": "Bridal Makeup",
+    "date": "Oct 01, 04:58 PM",
+    "status": "COMPLETED",
+    "amount": 268922,
+    "provider": "Arun Johnson",
+    "location": "Sector 24, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Bridal Makeup Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1053",
+    "customerName": "Rohit Reddy",
+    "serviceType": "Bridal Makeup",
+    "date": "Oct 10, 03:08 AM",
+    "status": "CONFIRMED",
+    "amount": 187416,
+    "provider": "Alice Reddy",
+    "location": "Sector 35, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Bridal Makeup Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1054",
+    "customerName": "Charlie Das",
+    "serviceType": "Banquet Hall",
+    "date": "Aug 20, 09:32 PM",
+    "status": "IN_PROGRESS",
+    "amount": 65007,
+    "provider": "Arun Gupta",
+    "location": "Sector 17, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Banquet Hall Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1055",
+    "customerName": "Arun Singh",
+    "serviceType": "Pre-wedding Shoot",
+    "date": "Nov 29, 04:27 AM",
+    "status": "CANCELLED",
+    "amount": 130701,
+    "provider": "Neha Patel",
+    "location": "Sector 47, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Pre-wedding Shoot Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1056",
+    "customerName": "Charlie Das",
+    "serviceType": "Party Makeup",
+    "date": "Jan 25, 07:37 PM",
+    "status": "PENDING",
+    "amount": 472167,
+    "provider": "Karan Sharma",
+    "location": "Sector 49, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Party Makeup Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1057",
+    "customerName": "Rahul Singh",
+    "serviceType": "Live Chaat Counters",
+    "date": "Aug 02, 03:19 PM",
+    "status": "IN_PROGRESS",
+    "amount": 282161,
+    "provider": "Charlie Patel",
+    "location": "Sector 13, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Live Chaat Counters Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1058",
+    "customerName": "Amit Smith",
+    "serviceType": "Live Band",
+    "date": "Mar 10, 07:37 PM",
+    "status": "IN_PROGRESS",
+    "amount": 321005,
+    "provider": "Charlie Smith",
+    "location": "Sector 44, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Live Band Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1059",
+    "customerName": "Anjali Nair",
+    "serviceType": "Farmhouse",
+    "date": "May 10, 07:23 AM",
+    "status": "PENDING",
+    "amount": 161159,
+    "provider": "Rahul Jain",
+    "location": "Sector 19, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Farmhouse Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1060",
+    "customerName": "Vikram Singh",
+    "serviceType": "Floral Decoration",
+    "date": "Sep 13, 04:54 PM",
+    "status": "COMPLETED",
+    "amount": 189870,
+    "provider": "Suresh Verma",
+    "location": "Sector 35, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Floral Decoration Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1061",
+    "customerName": "Bob Iyer",
+    "serviceType": "Standard Course Meal",
+    "date": "Feb 19, 02:45 PM",
+    "status": "COMPLETED",
+    "amount": 461409,
+    "provider": "Suresh Patel",
+    "location": "Sector 32, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Standard Course Meal Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1062",
+    "customerName": "Sneha Brown",
+    "serviceType": "Floral Decoration",
+    "date": "Jan 30, 04:31 PM",
+    "status": "IN_PROGRESS",
+    "amount": 89070,
+    "provider": "Arun Verma",
+    "location": "Sector 21, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Floral Decoration Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1063",
+    "customerName": "Vikram Jain",
+    "serviceType": "Live Band",
+    "date": "Dec 28, 11:23 AM",
+    "status": "COMPLETED",
+    "amount": 73843,
+    "provider": "Bob Reddy",
+    "location": "Sector 46, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Live Band Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1064",
+    "customerName": "Suresh Sharma",
+    "serviceType": "Pre-wedding Shoot",
+    "date": "Jun 02, 03:29 PM",
+    "status": "PENDING",
+    "amount": 378338,
+    "provider": "Alice Gupta",
+    "location": "Sector 16, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Pre-wedding Shoot Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1065",
+    "customerName": "Divya Sharma",
+    "serviceType": "Floral Decoration",
+    "date": "Nov 10, 11:07 AM",
+    "status": "CANCELLED",
+    "amount": 356146,
+    "provider": "Rahul Sharma",
+    "location": "Sector 31, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Floral Decoration Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1066",
+    "customerName": "Diana Nair",
+    "serviceType": "Theme Lighting",
+    "date": "Jan 27, 03:23 PM",
+    "status": "PENDING",
+    "amount": 315532,
+    "provider": "Karan Iyer",
+    "location": "Sector 44, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Theme Lighting Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1067",
+    "customerName": "Neha Patel",
+    "serviceType": "Mandap Decor",
+    "date": "Aug 10, 10:36 AM",
+    "status": "COMPLETED",
+    "amount": 428426,
+    "provider": "Karan Reddy",
+    "location": "Sector 11, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Mandap Decor Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1068",
+    "customerName": "Arun Das",
+    "serviceType": "Floral Decoration",
+    "date": "Nov 15, 05:14 AM",
+    "status": "PENDING",
+    "amount": 84295,
+    "provider": "Ramesh Singh",
+    "location": "Sector 4, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Floral Decoration Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1069",
+    "customerName": "Pooja Smith",
+    "serviceType": "Banquet Hall",
+    "date": "Jun 23, 07:25 AM",
+    "status": "IN_PROGRESS",
+    "amount": 91040,
+    "provider": "Sneha Patel",
+    "location": "Sector 17, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Banquet Hall Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1070",
+    "customerName": "Charlie Das",
+    "serviceType": "Bridal Makeup",
+    "date": "Nov 03, 04:09 AM",
+    "status": "CONFIRMED",
+    "amount": 483187,
+    "provider": "Vikram Verma",
+    "location": "Sector 46, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Bridal Makeup Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1071",
+    "customerName": "Diana Reddy",
+    "serviceType": "Cinematography",
+    "date": "Jun 19, 08:59 AM",
+    "status": "PENDING",
+    "amount": 482213,
+    "provider": "Priya Nair",
+    "location": "Sector 1, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Cinematography Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1072",
+    "customerName": "Pooja Reddy",
+    "serviceType": "Mandap Decor",
+    "date": "Aug 29, 10:37 AM",
+    "status": "CONFIRMED",
+    "amount": 267592,
+    "provider": "Arun Kumar",
+    "location": "Sector 42, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Mandap Decor Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1073",
+    "customerName": "Neha Singh",
+    "serviceType": "Sangeet Setup",
+    "date": "Sep 03, 02:49 PM",
+    "status": "CONFIRMED",
+    "amount": 209677,
+    "provider": "Ramesh Singh",
+    "location": "Sector 34, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Sangeet Setup Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1074",
+    "customerName": "Sneha Iyer",
+    "serviceType": "Banquet Hall",
+    "date": "Nov 27, 11:32 AM",
+    "status": "CANCELLED",
+    "amount": 205886,
+    "provider": "Karan Reddy",
+    "location": "Sector 29, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Banquet Hall Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1075",
+    "customerName": "Bob Iyer",
+    "serviceType": "Cinematography",
+    "date": "May 24, 11:36 PM",
+    "status": "COMPLETED",
+    "amount": 280304,
+    "provider": "Ramesh Verma",
+    "location": "Sector 40, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Cinematography Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1076",
+    "customerName": "Alice Gupta",
+    "serviceType": "Live Chaat Counters",
+    "date": "Mar 12, 09:33 AM",
+    "status": "COMPLETED",
+    "amount": 469535,
+    "provider": "Arun Das",
+    "location": "Sector 45, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Live Chaat Counters Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1077",
+    "customerName": "Bob Kumar",
+    "serviceType": "Wedding Photography",
+    "date": "Jul 15, 01:39 AM",
+    "status": "CONFIRMED",
+    "amount": 72715,
+    "provider": "Suresh Johnson",
+    "location": "Sector 43, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Wedding Photography Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1078",
+    "customerName": "Anjali Verma",
+    "serviceType": "Luxury Hotel",
+    "date": "Aug 07, 01:24 AM",
+    "status": "CONFIRMED",
+    "amount": 468880,
+    "provider": "Pooja Smith",
+    "location": "Sector 40, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Luxury Hotel Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1079",
+    "customerName": "Priya Brown",
+    "serviceType": "Live Band",
+    "date": "Mar 24, 01:04 AM",
+    "status": "CONFIRMED",
+    "amount": 478629,
+    "provider": "Karan Smith",
+    "location": "Sector 11, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Live Band Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1080",
+    "customerName": "Alice Smith",
+    "serviceType": "Pre-wedding Shoot",
+    "date": "May 02, 03:36 AM",
+    "status": "COMPLETED",
+    "amount": 451018,
+    "provider": "Charlie Reddy",
+    "location": "Sector 43, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Pre-wedding Shoot Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1081",
+    "customerName": "Rohit Kumar",
+    "serviceType": "Bridal Makeup",
+    "date": "May 14, 07:13 PM",
+    "status": "COMPLETED",
+    "amount": 238034,
+    "provider": "Priya Iyer",
+    "location": "Sector 8, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Bridal Makeup Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1082",
+    "customerName": "Charlie Singh",
+    "serviceType": "Floral Decoration",
+    "date": "Dec 13, 10:43 PM",
+    "status": "CONFIRMED",
+    "amount": 60725,
+    "provider": "Sneha Reddy",
+    "location": "Sector 12, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Floral Decoration Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1083",
+    "customerName": "Bob Jain",
+    "serviceType": "Farmhouse",
+    "date": "Sep 14, 08:23 PM",
+    "status": "COMPLETED",
+    "amount": 346993,
+    "provider": "Neha Patel",
+    "location": "Sector 3, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Farmhouse Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1084",
+    "customerName": "Bob Iyer",
+    "serviceType": "Wedding Photography",
+    "date": "Sep 10, 05:40 AM",
+    "status": "COMPLETED",
+    "amount": 279359,
+    "provider": "Anjali Kumar",
+    "location": "Sector 6, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Wedding Photography Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1085",
+    "customerName": "Bob Patel",
+    "serviceType": "Standard Course Meal",
+    "date": "Jan 18, 09:51 PM",
+    "status": "CANCELLED",
+    "amount": 257807,
+    "provider": "Bob Patel",
+    "location": "Sector 31, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Standard Course Meal Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1086",
+    "customerName": "Pooja Verma",
+    "serviceType": "Theme Lighting",
+    "date": "Jan 06, 03:10 PM",
+    "status": "CANCELLED",
+    "amount": 410385,
+    "provider": "Bob Nair",
+    "location": "Sector 33, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Theme Lighting Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1087",
+    "customerName": "Charlie Verma",
+    "serviceType": "Floral Decoration",
+    "date": "Jun 29, 01:49 AM",
+    "status": "CONFIRMED",
+    "amount": 391473,
+    "provider": "Anjali Kumar",
+    "location": "Sector 3, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Floral Decoration Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1088",
+    "customerName": "Divya Smith",
+    "serviceType": "Party Makeup",
+    "date": "Aug 13, 04:29 AM",
+    "status": "COMPLETED",
+    "amount": 466505,
+    "provider": "Charlie Nair",
+    "location": "Sector 10, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Party Makeup Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1089",
+    "customerName": "Vikram Jain",
+    "serviceType": "Wedding Photography",
+    "date": "Apr 14, 07:40 PM",
+    "status": "COMPLETED",
+    "amount": 387790,
+    "provider": "Priya Johnson",
+    "location": "Sector 49, Delhi",
+    "bookingDetails": {
+      "packageName": "Premium Wedding Photography Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1090",
+    "customerName": "Divya Sharma",
+    "serviceType": "Theme Lighting",
+    "date": "Aug 12, 08:30 AM",
+    "status": "PENDING",
+    "amount": 259744,
+    "provider": "Neha Verma",
+    "location": "Sector 14, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Theme Lighting Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1091",
+    "customerName": "Arun Gupta",
+    "serviceType": "Mandap Decor",
+    "date": "Feb 01, 12:54 AM",
+    "status": "COMPLETED",
+    "amount": 324609,
+    "provider": "Bob Johnson",
+    "location": "Sector 41, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium Mandap Decor Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1092",
+    "customerName": "Pooja Patel",
+    "serviceType": "Banquet Hall",
+    "date": "Mar 08, 02:40 AM",
+    "status": "IN_PROGRESS",
+    "amount": 364248,
+    "provider": "Rohit Gupta",
+    "location": "Sector 24, Mumbai",
+    "bookingDetails": {
+      "packageName": "Premium Banquet Hall Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 5"
+      ]
+    }
+  },
+  {
+    "id": "b1093",
+    "customerName": "Rahul Nair",
+    "serviceType": "Theme Lighting",
+    "date": "Mar 04, 07:32 PM",
+    "status": "PENDING",
+    "amount": 166557,
+    "provider": "Alice Patel",
+    "location": "Sector 42, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Theme Lighting Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 4"
+      ]
+    }
+  },
+  {
+    "id": "b1094",
+    "customerName": "Charlie Brown",
+    "serviceType": "Standard Course Meal",
+    "date": "Apr 17, 09:35 AM",
+    "status": "CANCELLED",
+    "amount": 304432,
+    "provider": "Rohit Jain",
+    "location": "Sector 2, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Standard Course Meal Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 2"
+      ]
+    }
+  },
+  {
+    "id": "b1095",
+    "customerName": "Karan Smith",
+    "serviceType": "Standard Course Meal",
+    "date": "May 08, 08:24 PM",
+    "status": "CONFIRMED",
+    "amount": 489243,
+    "provider": "Neha Verma",
+    "location": "Sector 12, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Standard Course Meal Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1096",
+    "customerName": "Sneha Jain",
+    "serviceType": "Standard Course Meal",
+    "date": "Aug 25, 04:16 AM",
+    "status": "COMPLETED",
+    "amount": 66823,
+    "provider": "Divya Gupta",
+    "location": "Sector 31, Bangalore",
+    "bookingDetails": {
+      "packageName": "Premium Standard Course Meal Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1097",
+    "customerName": "Karan Sharma",
+    "serviceType": "Party Makeup",
+    "date": "Sep 27, 07:28 AM",
+    "status": "COMPLETED",
+    "amount": 87927,
+    "provider": "Alice Patel",
+    "location": "Sector 21, Pune",
+    "bookingDetails": {
+      "packageName": "Premium Party Makeup Package",
+      "pricingType": "Per Day",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  },
+  {
+    "id": "b1098",
+    "customerName": "Karan Nair",
+    "serviceType": "DJ & Sound System",
+    "date": "Mar 07, 03:44 PM",
+    "status": "IN_PROGRESS",
+    "amount": 491069,
+    "provider": "Karan Jain",
+    "location": "Sector 43, Chennai",
+    "bookingDetails": {
+      "packageName": "Premium DJ & Sound System Package",
+      "pricingType": "Per Event",
+      "addons": [
+        "Addon 1"
+      ]
+    }
+  },
+  {
+    "id": "b1099",
+    "customerName": "Divya Reddy",
+    "serviceType": "Resort Wedding Venue",
+    "date": "Oct 15, 06:52 AM",
+    "status": "CONFIRMED",
+    "amount": 387712,
+    "provider": "Amit Reddy",
+    "location": "Sector 6, Hyderabad",
+    "bookingDetails": {
+      "packageName": "Premium Resort Wedding Venue Package",
+      "pricingType": "Per Guest",
+      "addons": [
+        "Addon 3"
+      ]
+    }
+  }
+]

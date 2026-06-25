@@ -1,0 +1,5 @@
+{
+  "name": "Evera Admin",
+  "description": "High-fidelity dark mode admin dashboard for managing workers, revenue, and bookings with role-based access control.",
+  "requestFramePermissions": []
+}
